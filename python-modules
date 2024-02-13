@@ -1,0 +1,40 @@
+    os: Provides a portable way of using operating system dependent functionality.
+    sys: Provides access to some variables used or maintained by the Python interpreter and to functions that interact strongly with the interpreter.
+    datetime: Supplies classes for manipulating dates and times.
+    math: Provides mathematical functions defined by the C standard.
+    random: Implements pseudo-random number generators for various distributions.
+    json: Allows encoding and decoding JSON data.
+    requests: Allows making HTTP requests.
+    re: Provides support for regular expressions.
+    csv: Implements classes to read and write tabular data in CSV format.
+    logging: Provides a flexible framework for emitting log messages from Python programs.
+    sqlite3: Provides a SQL interface to SQLite databases.
+    numpy: Adds support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
+    pandas: Offers data structures and data analysis tools.
+    matplotlib: Provides a MATLAB-like plotting framework.
+    scikit-learn: Offers simple and efficient tools for predictive data analysis.
+    tensorflow / PyTorch: Popular libraries for machine learning and deep learning.
+    flask / Django: Web development frameworks.
+    pytest / unittest: Testing frameworks.
+    argparse: Provides a command-line interface for Python programs.
+    Beautiful Soup: A library for parsing HTML and XML documents, useful for web scraping.
+    selenium: A tool for automating web browsers, often used for web testing or web scraping.
+    pickle: Allows serialization and deserialization of Python objects, useful for saving and loading data.
+    gzip / zipfile: Modules for working with gzip-compressed or zip-compressed files, respectively.
+    io: Provides tools for working with streams of data, such as files, strings, or network connections.
+    itertools: Offers functions for creating iterators for efficient looping and combination generation.
+    collections: Provides additional data structures beyond the built-in ones, such as OrderedDict, defaultdict, and namedtuple.
+    socket: Enables communication between processes over a network.
+    subprocess: Allows spawning new processes, connecting to their input/output/error pipes, and obtaining their return codes.
+    threading / multiprocessing: Modules for concurrent programming, allowing execution of multiple tasks simultaneously.
+    asyncio: A library for writing asynchronous code using the async/await syntax, useful for I/O-bound applications.
+    logging: A flexible logging system for Python programs, allowing configuration of logging at different levels.
+    hashlib: Provides interfaces for secure hashing algorithms such as SHA-1, SHA-256, and MD5.
+    gettext: Offers internationalization and localization support for Python applications.
+    datetime: Provides classes for manipulating dates and times, such as timedelta, date, time, and datetime.
+    csv: Implements classes to read and write tabular data in CSV format.
+    argparse: Allows parsing command-line arguments in a flexible and intuitive way.
+    json: Provides functions for encoding and decoding JSON data.
+    xml.etree.ElementTree: A simple and efficient API for parsing and creating XML data.
+    logging: A flexible framework for emitting log messages from Python programs.
+    pytz: Provides support for working with timezone definitions.
